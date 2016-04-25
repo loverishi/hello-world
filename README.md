@@ -1,2 +1,3 @@
 # hello-world
-my first  repository
+ this is my first  repository
+ i will upload more project later.
